@@ -6,5 +6,5 @@ Gives you a random cat... I guess.
 const giveMeARandomCat = require("give-me-a-random-cat");
 console.log(giveMeARandomCat()); // ₍⸍⸌̣ʷ̣̫⸍̣⸌₎
 
-console.log(goveMeARandomCat.noActuallyGiveMeAllCatsYouHaveBecauseIDoReallyNeedThemALot); // An array of all cats
+console.log(giveMeARandomCat.noActuallyGiveMeAllCatsYouHaveBecauseIDoReallyNeedThemALot); // An array of all cats
 ```
