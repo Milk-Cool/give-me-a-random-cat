@@ -1,0 +1,26 @@
+{
+  "name": "give-me-a-random-cat",
+  "version": "1337.69.420",
+  "description": "Gives you a random cat... I guess.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Milk-Cool/give-me-a-random-cat.git"
+  },
+  "keywords": [
+    "give",
+    "me",
+    "a",
+    "random",
+    "cat"
+  ],
+  "author": "Milk_Cool (github: Milk-Cool; discord: Milk_Cool#7881)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Milk-Cool/give-me-a-random-cat/issues"
+  },
+  "homepage": "https://github.com/Milk-Cool/give-me-a-random-cat#readme"
+}
